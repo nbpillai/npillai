@@ -1,5 +1,5 @@
 # Test
-#Another test
+#Another test by me
 print("We will tell you if this number is odd or even.")
 number = eval(input("Enter a number! "))
 if number%2==0:
